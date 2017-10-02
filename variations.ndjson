@@ -1,0 +1,8 @@
+{"principal office": true, "listing officials": true, "email": true}
+{"principal office": true, "listing officials": true, "email": false}
+{"principal office": true, "listing officials": false, "email": true}
+{"principal office": true, "listing officials": false, "email": false}
+{"principal office": false, "listing officials": true, "email": true}
+{"principal office": false, "listing officials": true, "email": false}
+{"principal office": false, "listing officials": false, "email": true}
+{"principal office": false, "listing officials": false, "email": false}

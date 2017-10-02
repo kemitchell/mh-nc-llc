@@ -1,0 +1,57 @@
+Pursuant to section 57D-2-20 of the General Statutes of North Carolina, the undersigned does hereby submit these Articles of Organization for the purpose of forming a limited liability company.
+
+    \\  The name of the limited liability company is: []
+
+    \\  The name and address of each person executing these articles of organization is as follows: []
+
+    \\  The name of the initial registered agent is: ___________________________
+
+    \\  The street address and county of the initial registered agent office of the limited liability company is:
+        \\  Number and Street: []
+        \\  City: []
+        \\  State: NC
+        \\  Zip Code: []
+        \\  County: []
+
+    \\  The mailing address, if different from the street address, of the initial registered agent office is:
+        \\  Number and Street: []
+        \\  City: []
+        \\  State: NC
+        \\  Zip Code: []
+        \\  County: []
+
+    ((if principal office begin))
+    \\  Principal office information: The limited liability company has a principal office.
+
+        \\  The principal office telephone number: []
+
+        \\  The street address and county of the principal office of the limited liability company is:
+            \\  Number and Street: []
+            \\  City: []
+            \\  State: []
+            \\  Zip Code: []
+            \\  County: []
+
+        \\ The mailing address, if different from the street address, of the principal office of the company is:
+            \\  Number and Street: []
+            \\  City: []
+            \\  State: []
+            \\  Zip Code: []
+            \\  County: []
+    (( end ))
+
+    (( unless principal office begin ))
+    \\  Principal office information: The limited liability company does not have a principal office.
+    (( end ))
+
+    \\  Any other provisions which the limited liability company elects to include (e.g., the purpose of the entity) are attached.
+
+    (( if listing officials begin ))
+    \\  Listing of Company Officials: []
+    (( end ))
+
+    (( if email begin ))
+    \\ Please provide a business e-mail address: []
+    (( end ))
+
+    \\  These articles will be effective upon filing, unless a future date is specified: []
